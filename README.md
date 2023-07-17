@@ -1,25 +1,25 @@
 # nlp_ipynb
-These Python notebooks serve as a ground-up educational resource to work through NLP from the ground up. Also included are sets of python and NLP templates to be used piecemeal in my other projects. This repo is a hybridization of Stanford course learnings, personal research, and my condensed notes from the "NLP-Natural Language Processing with Python" course by Jose Portilla with Pierian Data. I've attempted to make the learning flow naturally between MY phases of learning NLP. This won't work for everyone.
+These Python notebooks serve as a ground-up educational resource to work through NLP with minimal prior experience/setup. Also included are sets of python and NLP templates to be used piecemeal in my other projects. This repo is a hybridization of Stanford course learnings, personal research, and my condensed notes from the "NLP-Natural Language Processing with Python" course by Jose Portilla with Pierian Data.
 
+*Setup instructions are for MacOS, but can be easily extrapolated to a linux shell on any OS.
+*Folders are numbered in order of increasing difficulty/complexity. 
+*Those new to Python should be able to start here from scratch.
+
+---
 
 ## Setup
-**1.** Clone the repo into your desired local directory and open a linux shell in this directory.
+**1.** Clone the repository into a local directory and `cd` into that directory in terminal.
 
-**2.** Ensure [Anaconda](https://www.anaconda.com/download) is installed your machine.
+**2.** Install [Anaconda](https://www.anaconda.com/download) and [initialize](https://docs.conda.io/projects/conda/en/latest/commands/init.html) as desired.
+*I used `conda init bash` . This adds code to your `.bash_profile` which activates the `base` environment by default. [This post](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default) describes how to suppress this automatic env activation. 
 
-**3.** [Initialize Anaconda](https://docs.conda.io/projects/conda/en/latest/commands/init.html) as desired.
-* For my MacBook, I used `conda init bash` . 
-* This adds a block of code to your `.bash_profile` which activates the base environment by default. [This answer](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default) describes how to suppress the automatic base env activation. 
+**3.** Ensure the (base) env tag appears before your next command prompt line.
+*Activate manually with `conda activate base`.
 
-**4.** Ensure you are in the (base) env, or activate it.
-* For my MacBook, I used `conda activate base`. You should see the (base) tag appear before your next input line. 
+**4.** Create and activate the (nlp_ipynb) Python environment. The (nlp_ipynb) tag should appear before your next command prompt line.
+*Create: `conda env create -f nlp_ipynb_env.yml`
+*Activate: `conda activate nlp_ipynb`
 
-**5.** Create and activate the Python environment from the `nlp_ipynb_env.yml` file.
-* For my MacBook, I used `conda env create -f nlp_ipynb_env.yml`.
+**5.** From the nlp_ipynb directory & environment, type `jupyter notebook` to open the notebooks in a browser.
 
-**6.** Activate the `nlp_ipynb` environment, using `conda activate nlp_ipynb`.
-
-**7.** From the home directory, type `jupyter notebook` to begin using the formulas in a browser.
-
-
-## Usage
+---
