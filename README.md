@@ -20,13 +20,13 @@ These Python notebooks serve as a ground-up educational resource to work through
 
 ---
 
-##Usage
-*Folders are numbered in order of increasing difficulty/complexity. \
-*Those new to Python should be able to start here from scratch. \
-*In each notebook, hit `shift + enter` or `command/control + enter` to see function output. \
+##Usage \
+-Folders are numbered in order of increasing difficulty/complexity. \
+-Those new to Python should be able to start here from scratch. \
+-In each notebook, hit `shift + enter` or `command/control + enter` to see function output. \
 
 
 
 ---
-###Extra Links
--(Remove DS_Store files)[https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository] and (stop automatic .DS_Store creation)[https://buildthis.com/ds_store-files-and-why-you-should-know-about-them/]
+###Extra Links \
+-[Remove DS_Store files](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository) and [stop automatic .DS_Store creation](https://buildthis.com/ds_store-files-and-why-you-should-know-about-them/)
