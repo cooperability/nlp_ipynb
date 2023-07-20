@@ -25,5 +25,10 @@ These Python notebooks serve as a ground-up educational resource to work through
 
 
 ---
-###Extra Links \
--[Remove DS_Store files](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository) and [stop automatic .DS_Store creation](https://buildthis.com/ds_store-files-and-why-you-should-know-about-them/)
+##Extra Links \
+-[Remove DS_Store files](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository) and [stop automatic .DS_Store creation](https://buildthis.com/ds_store-files-and-why-you-should-know-about-them/) \
+-[Converting jupyter notebooks between formats](https://mljar.com/blog/convert-jupyter-notebook-python/) and an [Intro to jupytext](https://jupytext.readthedocs.io/en/latest/), the tool I used. \
+
+###Environments
+-[Update existing Conda environment](https://stackoverflow.com/questions/42352841/how-to-update-an-existing-conda-environment-with-a-yml-file) \
+-[CRUD guide for Python Environments](https://www.askpython.com/python/environment-variables-in-python)
