@@ -6,6 +6,9 @@
 .AppleDouble
 .LSOverride
 
+#Jupyter checkpoints
+.ipynb_checkpoints
+
 # Thumbnails
 ._*
 
