@@ -28,4 +28,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
+#other python
+.env
+__pycache__/
+*.pyc
+venv/
