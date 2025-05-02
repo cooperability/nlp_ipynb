@@ -53,6 +53,6 @@ today=datetime(year=2022,month=7,day=5)
 print(f"{today}")
 
 print(f"{today:%B %d, %Y}")
-see strftime.org for https://strftime.org/ cheatsheet
+#see strftime.org for https://strftime.org/ cheatsheet
 
 
