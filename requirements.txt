@@ -1,7 +1,7 @@
 spacy==2.0.16
-numpy==1.15.4
+numpy==1.22.0
 keras
 matplotlib==3.0.1
 pandas==0.23.4
-nltk==3.3.0
-scikit-learn==0.20.1 
+nltk==3.9.1
+scikit-learn==1.5.1 
