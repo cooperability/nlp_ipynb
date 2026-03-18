@@ -3,5 +3,5 @@ numpy==1.22.0
 keras
 matplotlib==3.0.1
 pandas==0.23.4
-nltk==3.9.1
+nltk==3.9.3
 scikit-learn==1.5.1 
