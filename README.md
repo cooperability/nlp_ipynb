@@ -32,3 +32,11 @@ These Python notebooks serve as a ground-up educational resource to work through
 ###Environments
 -[Update existing Conda environment](https://stackoverflow.com/questions/42352841/how-to-update-an-existing-conda-environment-with-a-yml-file) \
 -[CRUD guide for Python Environments](https://www.askpython.com/python/environment-variables-in-python)
+
+---
+
+## License
+
+Copyright 2023-2026 Cooper Reed. Free for noncommercial use under the [PolyForm Noncommercial License 1.0.0](LICENSE). Personal study, hobby projects, noncommercial research, and use by charities, schools, public research bodies and government all qualify. Commercial use needs a separate license: ask through [cooperability.com](https://cooperability.com).
+
+The license covers my own notes and code only. Material adapted from the Pierian Data course and the bundled datasets (`moviereviews.tsv`, `moviereviews2.tsv`, `smsspamcollection copy.tsv`) belong to their original authors and keep their own terms.
